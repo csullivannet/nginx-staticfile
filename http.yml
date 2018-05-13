@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: A basic http instance service up a file
+Description: A basic http instance to serve up a static file
 Parameters:
   KeyName:
     Description: Existing EC2 Keys to use to access EC2 Instance
