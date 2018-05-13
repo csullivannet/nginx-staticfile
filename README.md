@@ -3,7 +3,7 @@ A sample template for CloudFormation to deploy a simple nginx server that serves
 
 ### Assumptions
 - [aws cli is installed](https://docs.aws.amazon.com/cli/latest/userguide/installing.html "Install AWS CLI") and configured with your AWS account
-- You have a set of ssh keys named "*MyKeys*"
+- You have a set of [ssh keys](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html "Creating EC2 Key Pairs") named "*MyKeys*"
 - You have not modified the default VPC/subnets
 
 ### How-to deploy
